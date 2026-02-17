@@ -6,12 +6,12 @@ Edit `config/_default/module.yaml` to install the `architectify-theme` module:
 
 ```yml
 imports:
-  - path: github.com/hugolify/architectify-theme
+  - path: github.com/uncinq/architectify-theme
 ```
 
 ## Documentation
 
-https://github.com/hugolify/hugolify-template/wiki
+https://www.hugolify.io
 
 ## Licensing
 
