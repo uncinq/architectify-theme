@@ -2,9 +2,9 @@
   "name": "architectify-theme",
   "version": "1.1.1",
   "homepage": "https://www.architectify.io",
-  "repository": "https://github.com/hugolify/architectify-theme",
+  "repository": "https://github.com/uncinq/architectify-theme",
   "bugs": {
-    "url": "https://github.com/hugolify/architectify-theme/issues"
+    "url": "https://github.com/uncinq/architectify-theme/issues"
   },
   "author": {
     "email": "sebousan@gmail.com",
