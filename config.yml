@@ -4,3 +4,5 @@ module:
       target: assets
     - source: i18n
       target: i18n
+    - source: static
+      target: static
