@@ -30,6 +30,18 @@ imports:
   - path: github.com/hugolify/hugolify-theme
 ```
 
+## Structured data
+
+schema.org has no type for an architect, so the theme adds none to the generic ones of hugolify-theme. A firm takes `LocalBusiness`, in Hugolify admin under *Config › Structured data*:
+
+```yml
+# data/schema.yml
+organization:
+  type: LocalBusiness
+```
+
+See [Structured data](https://www.hugolify.io/docs/customization/structured-data/#types).
+
 ## Design tokens
 
 The design-system layer is authored as [DTCG](https://www.designtokens.org/) token files under `assets/tokens/theme/` and compiled to custom properties with [Style Dictionary](https://styledictionary.com/):
