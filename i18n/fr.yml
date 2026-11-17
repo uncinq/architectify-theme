@@ -6,8 +6,8 @@ expertises:
 persons:
   all: Toutes les personnes du cabinet
   discover_occupation:
-    consonant: Découvir le {{ .Occupation }}
-    vowel: Découvir l’{{ .Occupation }}
+    consonant: Découvrir le {{ .Occupation }}
+    vowel: Découvrir l’{{ .Occupation }}
 places:
   all: Tous les cabinets
   latest: Derniers cabinets
