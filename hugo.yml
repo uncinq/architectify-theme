@@ -6,3 +6,9 @@ module:
       target: i18n
     - source: static
       target: static
+
+params:
+
+  # Admin
+  admin:
+    title: "Architectify CMS"
